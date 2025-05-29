@@ -69,7 +69,7 @@ const Column = ({
             <FaTrashAlt />
           </button>
 
-          {/* Tooltip Component */}
+          {/* Tooltip added*/}
           <Tooltip id="rename-tooltip" place="top" />
           <Tooltip id="delete-tooltip" place="top" />
         </div>
