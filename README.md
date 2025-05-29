@@ -35,8 +35,8 @@ A responsive **Task and User Management System** built with **React.js** and **T
 
 Clone the repo:
 
-git clone https://github.com/Deeshnnasreyas/risk-management-dashboard.git
-cd risk-dashboard
+git clone https://github.com/Deeshnnasreyas/task-management.git
+cd task-management
 
 ### Install dependencies:
 npm install
